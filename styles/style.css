@@ -1,0 +1,44 @@
+body {
+	background-color:#000000;
+	basefont-color:#FFF;
+	}
+
+h3 {text-align:center;
+color:#FFF;
+
+font-size:65px}
+
+
+
+p {text-align:center;
+color:#FFFFFF;
+font-size:30px}
+
+ul {
+	text-align:center;
+	font-size:30px;
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	background-color: #000;
+			}
+			
+li {
+					float: center
+				;
+				}
+				
+li a {
+	text-align:center;
+	display: inline-block;
+	color: #FFF;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+				 }
+				 
+li a:hover	{
+		text-align:center;
+	background-color: #000;
+				}
